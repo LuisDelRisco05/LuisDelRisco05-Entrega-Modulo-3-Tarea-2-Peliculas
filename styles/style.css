@@ -1,0 +1,57 @@
+.bg{
+    background: rgb(10,1,33);
+    background: linear-gradient(180deg, rgba(10,1,33,1) 0%, rgba(22,8,66,1) 65%, rgba(23,4,98,1) 95%);
+    height: 100%;
+}
+h1{
+    font-size: x;
+}
+
+.container-carousel {
+    height: 30rem;
+}
+
+
+#carousel {
+    margin: 0 25%;
+    
+}
+
+.edit{
+    width: 23rem;
+    height: 30rem;
+    border-radius: 0.5rem;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.6);
+    background-color: rgb(119, 0, 255);
+}
+
+.top-0 {
+    height: 70vh;
+    width: 30%;
+    text-align: center;
+    color: white;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.6);
+    
+}
+
+.descrip {
+    text-align: justify;
+    padding: 1rem;
+}
+
+.shadow{
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.6);
+    border-radius: 2rem;
+    padding: 0.4rem;
+}
+.btnModal {
+    height: 30rem;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.6);
+    border-radius: 0.5rem;
+}
+#portada {
+    width: 360px;
+    height: 470px;
+    margin-left: 1rem;
+    opacity: 30%;
+};
